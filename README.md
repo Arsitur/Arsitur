@@ -1,12 +1,32 @@
-## Hey, I'm Artur 👋
+# Hey, I'm Artur 👋
 
 Software developer and IT student building things I actually want to use.
 
-### Currently
-- 📖 Built [Simpleread](https://simpleread.app) — a web-based EPUB reader used by real readers
-- 🗡️ Building a terminal RPG in pure C
-- 🤖 Exploring AI, local models and software engineering
-- 🎓 Studying Information Technology at UTM
+## Selected work
 
-### I work with
-SvelteKit · JavaScript · Firebase · C · Git
+### 📖 Simpleread
+A web-based EPUB reader I designed, built and maintained as a real product.
+
+→ https://simpleread.app
+
+### ⚔️ RPG_GAME
+A terminal RPG written in pure C while I slowly discover new reasons to hate C.
+
+### 🌐 Client projects
+Web projects built for real local businesses, including award-winning work
+developed through Tekwill Junior Ambassadors.
+
+## Current quests
+
+📖 Keeping Simpleread alive and improving it when needed  
+⚔️ Building my terminal RPG in pure C  
+🤖 Exploring AI, local models and software engineering  
+🎓 Studying Information Technology at UTM
+
+## Tools I actually use
+
+[small row of icons here]
+
+---
+
+*Push the boulder. Build anyway.*
