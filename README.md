@@ -25,7 +25,9 @@ developed through Tekwill Junior Ambassadors.
 
 ## Tools I actually use
 
-[small row of icons here]
+<p>
+  <img src="https://skillicons.dev/icons?i=svelte,js,firebase,tailwind,c,git,vscode&theme=dark" />
+</p>
 
 ---
 
