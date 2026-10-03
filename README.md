@@ -7,11 +7,14 @@ Software developer and IT student building things I actually want to use.
 ### 📖 Simpleread
 A web-based EPUB reader I designed, built and maintained as a real product.
 
-→ https://simpleread.app
 `Source code is private.`
+
+→ https://simpleread.app
+
 
 ### ⚔️ RPG_GAME
 A terminal RPG written in pure C while I slowly discover new reasons to hate C.
+
 `Source code is private.`
 
 ### 🌐 Client projects
