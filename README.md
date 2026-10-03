@@ -2,7 +2,7 @@
 
 Software developer and Information Technology student at UTM, building things I actually want to use.
 
-Web apps, pure C, AI experiments — and the occasional fight with a compiler.
+Web apps, pure C, AI experiments - and the occasional fight with a compiler.
 
 ## Selected work
 
@@ -32,7 +32,7 @@ Collaborative web projects originally built for local businesses through **Tekwi
 
 A restaurant website featuring scroll-driven animations, a searchable menu, articles, Firebase authentication and user reviews.
 
-🏆 **2nd place nationally — Tekwill Junior Ambassadors 2024**
+🏆 **2nd place nationally - Tekwill Junior Ambassadors 2024**
 
 **Built with:** HTML · CSS · JavaScript · GSAP · Firebase · EmailJS
 
