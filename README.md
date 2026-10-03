@@ -1,33 +1,51 @@
 # Hey, I'm Artur 👋
 
-Software developer and IT student building things I actually want to use.
+Software developer and Information Technology student at UTM, building things I actually want to use.
+
+Web apps, pure C, AI experiments — and the occasional fight with a compiler.
 
 ## Selected work
 
 ### 📖 Simpleread
-A web-based EPUB reader I designed, built and maintained as a real product.
 
-`Source code is private.`
+A web-based EPUB reader I designed, built and maintain as a real product. Import books, navigate chapters and save highlights.
 
-→ https://simpleread.app
+**Built with:** SvelteKit · JavaScript · Firebase · Tailwind CSS
 
+[Try Simpleread ↗](https://simpleread.app) · Source code is private.
 
 ### ⚔️ RPG_GAME
-A terminal RPG written in pure C while I slowly discover new reasons to hate C.
 
-`Source code is private.`
+A terminal RPG written in **pure C**, learning through gameplay systems and debugging my own questionable decisions.
+
+Still in development. Still discovering new reasons to hate C.
+
+Source code is private.
+
 
 ### 🌐 Client projects
-Web projects built for real local businesses, including award-winning work
-developed through Tekwill Junior Ambassadors.
 
-### 🍕 Relax - local bar
+Collaborative web projects originally built for local businesses through **Tekwill Junior Ambassadors**, now refreshed as portfolio demos.
 
-→ https://arsitur.github.io/Relax_website/
 
-### 🛒 Divers Angro Shop - local shop
+#### 🍕 Relax
 
-→ https://arsitur.github.io/Divers-AngroShop/
+A restaurant website featuring scroll-driven animations, a searchable menu, articles, Firebase authentication and user reviews.
+
+🏆 **2nd place nationally — Tekwill Junior Ambassadors 2024**
+
+**Built with:** HTML · CSS · JavaScript · GSAP · Firebase · EmailJS
+
+[Live demo ↗](https://arsitur.github.io/Relax_website/) · [Source code](https://github.com/Arsitur/Relax_website)
+
+
+#### 🛒 Divers Angro Shop
+
+A website for a local shop in Leova, showcasing its products, news, business information and contact form.
+
+**Built with:** HTML · CSS · JavaScript · Anime.js · EmailJS
+
+[Live demo ↗](https://arsitur.github.io/Divers-AngroShop/) · [Source code](https://github.com/Arsitur/Divers-AngroShop)
 
 ## Current quests
 
@@ -39,9 +57,9 @@ developed through Tekwill Junior Ambassadors.
 ## Tools I actually use
 
 <p>
-  <img src="https://skillicons.dev/icons?i=svelte,js,firebase,tailwind,html,css,c,git,github,vscode,vite,nodejs,netlify,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=svelte,js,firebase,tailwind,html,css,c,git,github,vscode,vite,nodejs,netlify,figma&theme=dark" alt="My development tools" />
 </p>
 
 ---
 
-*Push the boulder. Build anyway.*
+*“One must imagine Sisyphus happy.”* - Albert Camus
