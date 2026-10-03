@@ -21,11 +21,11 @@ A terminal RPG written in pure C while I slowly discover new reasons to hate C.
 Web projects built for real local businesses, including award-winning work
 developed through Tekwill Junior Ambassadors.
 
-Relax - local bar
+### 🍕 Relax - local bar
 
 → https://arsitur.github.io/Relax_website/
 
-Divers Angro Shop - local shop
+### 🛒 Divers Angro Shop - local shop
 
 → https://arsitur.github.io/Divers-AngroShop/
 
